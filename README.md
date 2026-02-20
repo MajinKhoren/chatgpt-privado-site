@@ -4,7 +4,7 @@ Página de vendas do produto **ChatGPT Privado no seu PC**.
 
 ## 🔗 Site
 
-Acesse em: https://[seu-usuario].github.io/chatgpt-privado-site
+Acesse em: https://majinkhoren.github.io/chatgpt-privado-site
 
 ## 📦 Produto
 
